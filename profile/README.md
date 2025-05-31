@@ -54,38 +54,6 @@ Invest Future(<strong>IF</strong>)는 사용자의 투자 행동으로 서비스
 
 
 
-
-## 프로젝트 특징
-
-<img width="2903" alt="Image" src="https://github.com/user-attachments/assets/d74aea6f-c605-48b6-b77b-42cb9be8565c" />
-
-### 세부 로직
-<details>
-<summary><b> 주문/체결</b></summary>
-<blockquote>
-	<img width="1400" alt="Image" src="https://github.com/user-attachments/assets/8e604703-8bb3-43b3-9d2a-e72ab53a3e6b" />
-	<p dir="auto"><strong>설명</strong> :  </p>
-</blockquote>
-</details>
-
-<details>
-<summary><b> 보간 </b></summary>
-<blockquote>
-	<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/56e01e3a-a878-4921-ae40-692845d7989f" />
-	<p dir="auto"><strong>설명</strong> :  </p>
-</blockquote>
-</details>
-
-<details>
-<summary><b> 차트/DB </b></summary>
-<blockquote>
-	<img width="1500" alt="Image" src="https://github.com/user-attachments/assets/3a1850c1-54c9-46cc-b99d-dc0fbf59cd36" />
-	<p dir="auto"><strong>설명</strong> :  </p>
-</blockquote>
-</details>
-
-
-
 ## 1차 구현 [5.2 ~ 5.15]
 
 코인 한 개(트럼프 코인)을 매수 할 수 있습니다.
